@@ -24,7 +24,7 @@ Those selected as participants will be provided with one round-trip airfare (up 
 ## Benefits (TBD)
 * Full month of hands-on experience training deep learning models with TensorFlow and mentorship from top developers
 * Round-trip airfare to Jeju Island (up to $300 USD)
-* Accomodation in Jeju National University or Kakao Space, Jeju
+* Accommodation in Jeju National University or Kakao Space, Jeju
 * Stipend: 1,000 USD (can be used for the airfare, etc.)
 * Google Cloud Credit ($500~1000 TBD) 
 
